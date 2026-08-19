@@ -68,7 +68,7 @@ public class Main {
 
         System.out.println ("Задание8,2");
         var workersnew=workers+94;
-        var time=fulltime/workersnew;
-        System.out.println ("Если в компании работает = " + workersnew + " человек"+",то всего = "+ time + "  часа работы может быть поделено между сотрудниками" );
+        var time=workersnew*time1;
+        System.out.println ("Если в компании работает = " + workersnew + " человек"+",то всего = "+ time + "  часов работы может быть поделено между сотрудниками" );
     }
 }
