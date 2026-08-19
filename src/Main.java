@@ -69,6 +69,6 @@ public class Main {
         System.out.println ("Задание8,2");
         var workersnew=workers+94;
         var time=workersnew*time1;
-        System.out.println ("Если в компании работает = " + workersnew + " человек"+",то всего = "+ time + "  часов работы может быть поделено между сотрудниками" );
+        System.out.println (" Если в компании работает = " + workersnew + " человек"+",то всего = "+ time + "  часов работы может быть поделено между сотрудниками" );
     }
 }
