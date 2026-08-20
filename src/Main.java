@@ -70,5 +70,6 @@ public class Main {
         var workersnew=workers+94;
         var time=workersnew*time1;
         System.out.println (" Если в компании работает = " + workersnew + " человек"+",то всего = "+ time + "  часов работы может быть поделено между сотрудниками" );
+
     }
 }
